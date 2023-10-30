@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ✨ I'm Salim, Experienced Full Stack  (Node JS/ React ) developer with 3 years in MERN stack. Proficient in developing scalable web applications with expertise in front-end and back-end development. Strong understanding of software engineering principles, detail-oriented, and committed to delivering high-quality code. Collaborative team player with a passion for continuous learning and staying up-to-date with industry trends..
 
 <!-- 🔭 I’m currently working on a e-commerce website made with Nodejs (express) and  React Js -->
-- 🌱 I am learning Python🐍, TypeScript🟦 and Next.js🚀
+- 🌱 I am learning Python🐍 and Next.js🚀
 - 👩🏼‍💻 Currently working as a Full Stack developer focusing more on the frontend
 - 👀 I am always open to collaborate on interesting projects involving frontend 
 - 📧 You can reach me through my email: salimbenhalima95@gmail.com 
